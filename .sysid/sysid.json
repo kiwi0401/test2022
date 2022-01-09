@@ -1,0 +1,11 @@
+{
+  "SysId": {
+    "Analysis Type": "General Mechanism",
+    "NetworkTables Settings": {
+      "serverTeam": "10.58.18.2"
+    },
+    "dsClient": false,
+    "mode": "Client",
+    "serverTeam": "10.58.18.2"
+  }
+}
